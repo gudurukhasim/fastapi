@@ -3,3 +3,6 @@ uvicorn
 pydantic
 motor
 pymongo
+pip install uvicorn
+pip freeze > requirements.txt
+
